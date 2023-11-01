@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501301424849",
+    "project_id": "glicodharma",
+    "storage_bucket": "glicodharma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501301424849:android:101c1a3df778ecac048bf0",
+        "android_client_info": {
+          "package_name": "com.example.glicodharma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Yw-M3g44PkHnwyOeGoFpZuVqfcmyg0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
